@@ -12,3 +12,4 @@ import (
 Create a new client, then use the exposed services to access different parts of the Kubernetes custom API.
 
 k8s 1.22+
+v0.7.0
